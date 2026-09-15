@@ -1,7 +1,9 @@
-# Accenture Training - Day 1 DSA Assignment
+# Accenture Training
 
+## Day 1 - DSA Assignment
 - DSA_Assignment-1
-## Completed DSA Problems
+
+### Completed DSA Problems
 1. Check Whether Two Arrays are Equal
 2. Count Even, Odd and Zero
 3. Find the Missing Number
@@ -11,5 +13,16 @@
 7. Rotate an Array
 8. Sum of Positive and Negative Numbers
 
+## Day 2 - Class Practice
+- Day-2 folder completed with live class practice
+
+## Day 2 - Assignment
+- Day-2_Assignment completed
+
+### Tasks Covered
+1. NumPy problems
+2. Pandas problems
+3. Visualization problems
+
 ## Status
-Completed for Accenture Training Day 1 DSA assignment.
+Completed for Accenture Training Day 1 DSA assignment and Day 2 practice/assignment.
