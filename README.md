@@ -24,5 +24,27 @@
 2. Pandas problems
 3. Visualization problems
 
+## Day 3 - Practice
+- Day-3_Practice completed
+
+### Topics Covered
+1. Machine Learning basics
+2. Supervised Learning concepts
+3. Hands-on notebook practice
+
+## Day 3 - Assignment
+- Day-3_Assignment completed
+
+### Assignment Topic
+- Customer Purchase Prediction
+
+## Day 4 - Practice
+- Day-4_Practice completed
+
+### Topics Covered
+1. Unsupervised Learning
+2. Clustering concepts
+3. Practical implementation exercises
+
 ## Status
-Completed for Accenture Training Day 1 DSA assignment and Day 2 practice/assignment.
+Completed for Accenture Training up to Day 4, including DSA, Python/NumPy/Pandas practice, visualization tasks, ML supervised learning, customer purchase prediction, and unsupervised learning practice.
